@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/joshua/Documents/string_class/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/string_class.dir/string.cpp.o -c /home/joshua/Documents/string_class/string.cpp",
+  "file": "/home/joshua/Documents/string_class/string.cpp"
+},
+{
+  "directory": "/home/joshua/Documents/string_class/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/string_class.dir/main.cpp.o -c /home/joshua/Documents/string_class/main.cpp",
+  "file": "/home/joshua/Documents/string_class/main.cpp"
+}
+]

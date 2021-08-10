@@ -2,13 +2,16 @@
 
 int main()
 {
-    string my_string("Hello");
-    string my_string1("World");
+    string test("Hello World");
+    string test0 = "Hellow World test0";
+    string test1 = test + test0;
 
-    std::cout << my_string << std::endl;
-    std::cout << my_string[3] << std::endl;
-    std::cout << my_string[4] << std::endl;
-    std::cout << my_string + my_string1 + my_string1 << std::endl;
+    std::cout << test << std::endl;
+    std::cout << test0 << std::endl;
+    std::cout << test1 << std::endl;
+
+    /* we will get H */
+    std::cout << test[0] << std::endl;
 
     return 0;
 }

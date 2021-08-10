@@ -12,10 +12,11 @@ public:
     ~string();
 
     const char* data() const;
-    const std::vector<const string> split() const;
+    const size_t length() const;
 
     const char operator[](const unsigned int index) const;
     const string operator+(const string& str) const;
+    const string& operator=(const string& str);
     friend std::ostream& operator<<(std::ostream& out, const string& str);
 
 private:
