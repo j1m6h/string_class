@@ -1,3 +1,0 @@
-/home/joshua/Documents/string_class/build/CMakeFiles/rebuild_cache.dir
-/home/joshua/Documents/string_class/build/CMakeFiles/edit_cache.dir
-/home/joshua/Documents/string_class/build/CMakeFiles/string_class.dir
